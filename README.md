@@ -26,6 +26,6 @@ The fifth problem asks to find and print the mean of three integers using pointe
 
 The sixth problem asks to take three numbers from the user, find the largest and smallest number and print the result using pointer variables.
 
-_The code for each of these problems are written in **C++**._
+_The code for each of these problems is written in **C++**._
 
 __*>>The repository includes a file for each problem that contains the code solution.*__
